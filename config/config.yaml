@@ -1,0 +1,13 @@
+Service:
+  Log:
+    Level: 'debug'
+
+DB:
+  Maria:
+    User: 'scott_tsao'
+    Pwd: 'abcd1234'
+    Dialect: 'mariadb'
+
+Http:
+    Host: '127.0.0.1'
+    Port: 3003
